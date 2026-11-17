@@ -3,6 +3,7 @@ name: Safe Upstream Sync & Keepalive
 permissions:
   contents: write
   pull-requests: write
+  workflows: write
 
 on:
   schedule:
